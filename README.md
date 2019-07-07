@@ -1,1 +1,1 @@
-将dockerhub关联到github
+将dockerhub关联到github,通过 dockerhup 拉取境外的镜像
